@@ -373,7 +373,7 @@ for the entire application
 
 Module Pattern
 ---------------
-Deals with code encapsulation. It is used to create private publci properties
+Deals with code encapsulation. It is used to create private public properties
 
 
 code encapsulation
